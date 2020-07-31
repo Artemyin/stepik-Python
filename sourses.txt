@@ -1,0 +1,2 @@
+Итерируемый объект, итератор и генератор - https://habr.com/ru/post/337314/
+Как работает yield - https://habr.com/ru/post/132554/
